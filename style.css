@@ -1,0 +1,8 @@
+.flex-container{
+    display: flex;
+}
+.flex-item{
+    border:1px solid rgb(239, 239, 239);
+    width: 2em;
+    height: 2em;
+}
